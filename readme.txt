@@ -7,4 +7,4 @@ A `libmatematica` é uma biblioteca em C para cálculos matemáticos básicos, i
 Para usar a `libmatematica`, clone este repositório usando o Git:
 
 ```bash
-git clone https://github.com/seu-usuario/libmatematica.git
+git clone https://github.com/Rannallopes/libmatematica.git .
